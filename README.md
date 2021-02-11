@@ -1,3 +1,3 @@
-# options_pricing
+# Interactive Options Price Chart
 
-![chart]https://i.imgur.com/ErmSB49.gif
+![chart](https://i.imgur.com/ErmSB49.gif)
